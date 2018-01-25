@@ -1,3 +1,11 @@
 habia una vez una niña con capa 
 segunda linea
 tercera linea
+<<<<<<< HEAD
+cuarta linea
+quinta linea
+
+=======
+sexta linea
+septima
+>>>>>>> imagenesalternas
